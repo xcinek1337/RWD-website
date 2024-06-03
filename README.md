@@ -5,52 +5,32 @@
 &nbsp;
 
 
-# HTML & CSS: Podstawy
+# AppLab - Project Responsive Website
 
-Najwyższy czas zakodować prawdziwą stronę internetową! 
+live page: https://aesthetic-kitten-937381.netlify.app/
 
-Będziemy się wzorować na projekcie od [Webscope](https://themewagon.com/themes/project-app-showasing-onepage-bootstrap-template-free-nova/), który wygląda tak:
+Welcome to my project, which was one of the tasks in my mentoring program - AppLab, responsive website! AppLab is designed to promote various mobile applications. The project was developed using HTML and CSS.
 
-![](./assets/demo.png)
+## Features
 
-&nbsp;
+- **Responsive Design**: AppLab is designed to look great on all devices, from mobile phones to desktops.
+- **BEM Methodology**: I learned and applied the BEM (Block, Element, Modifier) naming convention for CSS classes to ensure the code is modular and maintainable.
+- **Semantic HTML**: I learned to use proper semantic tags for different sections of the website, improving both accessibility and SEO.
 
-## Opis projektu
+## Technologies Used
 
-Wszystkie niezbędne grafiki masz przygotowane w katalogu `images`. Znajdziesz tam m.in. [pliki SVG](https://pl.wikipedia.org/wiki/Scalable_Vector_Graphics). W VS Code ich podgląd uzyskasz dzięki rozszerzeniu [SVG](https://marketplace.visualstudio.com/items?itemName=jock.svg).
+- **HTML**: For the structure of the website.
+- **CSS**: For styling and layout.
 
-Font, który jest używany w projekcie, to [Montserrat](https://fonts.google.com/specimen/Montserrat).
+## What I Learned
 
-Tło w górnej części strony to gradient: 
-`background: radial-gradient(rgb(194, 74, 126), rgb(105, 86, 235));`
+- **Responsive Web Design**: How to create layouts that work on different screen sizes using media queries.
+- **BEM Naming Convention**: How to organize CSS classes using the BEM methodology for better code readability and maintainability.
+- **Semantic HTML**: How to use semantic tags like `<header>`, `<nav>`, `<main>`, `<section>`, and `<footer>` to enhance the meaning of the web content and improve accessibility.
 
-Jeśli chcesz dokładnie odwzorować położenie poszczególnych elementów, możesz użyć rozszerzenia do Chrome o nazwie [PerfectPixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi). Pozwoli Ci ono osadzić przedstawiony wyżej plik poglądowy (lokalizacja: `./assets/demo.png`) jako tło dla tworzonej strony.
+## Acknowledgements
+I would like to thank my mentor for their keen eye and for pointing out my mistakes during code reviews, which significantly reinforced my learning process.
 
-> **Uwaga!** Możliwe, że w powyższym rozszerzeniu będziesz musiał użyć odpowiedniej skali obrazu wykorzystywanego jako podgląd. Jest to zależne od [ustawień systemowych](https://pliki.wiki/blog/jak-korzystac-ze-skalowania-ekranu-w-systemie-windows-10/). Zazwyczaj jednak domyślne ustwienia wtyczki dobrze się sprawdzają i poza jej instalacją nie musisz nic robić.
+## Getting Started
 
-Strona nie musi być wykonana zgodnie z pierwowzorem 1:1. Ważne, aby na pierwszy rzut oka było widać, że jest to ten sam projekt. 
-
-Pamiętaj, że przedstawiona grafika to element statyczny, a strona internetowa to element dynamiczny, który powinien dobrze wyglądać w różnych rozdzielczościach / na różnej wielkości monitorach. Część z nich może mieć szerokość ekranu 1280px, a inna 1440px itp. Na razie jednak skup się na odwzorowaniu zamieszczonego w zadaniu widoku. Innymi rozdzielczościami zajmiemy się w kolejnym module.
-
-## Propozycja podziału
-
-Poniżej zamieszczam propozycję podziału strony na poszczególne grupy:
-
-- wiersz (`width: 100%`) – kolor zielony
-- wyśrodkowanie (`max-width: 1150px`) – kolor niebieski
-- komórka (wiele elementów w jednej linii) – kolor pomarańczowy.
-
-Nie musisz się od tego stosować – to jedynie moja koncepcja, która ma Ci pomóc w utworzeniu odpowiedniej struktury.
-
-![](./assets/demo-info.png)
-
-&nbsp;
-
-> :warning: Jeśli nie posiadasz materiałów do tego zadania, to znajdziesz je na stronie [devmentor.pl](https://devmentor.pl/p/html-and-css-basics/).
-
-
-&nbsp;
-
-> ⭐ ***README** to coś więcej niż opis. Poprzez nie **pokazujesz swoje mocne strony** – swoją dokładność, sposób myślenia i podejście do rozwiązywania problemów. Niech Twoje README pokaże, że masz **świetne predyspozycje do rozwoju!***
-> 
-> 🎁 *Zacznij od razu. Skorzystaj z **[szablonu README i wskazówek](https://github.com/devmentor-pl/readme-template)**.* 
+To view the project locally, you can clone the repository and open `index.html` in your web browser😃.
