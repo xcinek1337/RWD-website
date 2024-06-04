@@ -1,11 +1,7 @@
-> ⭐ ***README** to coś więcej niż opis. Poprzez nie **pokazujesz swoje mocne strony** – swoją dokładność, sposób myślenia i podejście do rozwiązywania problemów. Niech Twoje README pokaże, że masz **świetne predyspozycje do rozwoju!***
-> 
-> 🎁 *Zacznij od razu. Skorzystaj z **[szablonu README i wskazówek](https://github.com/devmentor-pl/readme-template)**.* 
-
-&nbsp;
-
-
 # AppLab - Project Responsive Website
+
+![rwd-readme](https://github.com/xcinek1337/RWD-website/assets/125750465/6f5aadff-a25b-4dbc-b461-42a2672287e5)
+
 
 live page: https://aesthetic-kitten-937381.netlify.app/
 
